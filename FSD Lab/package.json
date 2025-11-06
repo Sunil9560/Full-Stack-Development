@@ -8,6 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
+    
   },
   "dependencies": {
     "react": "^19.1.1",
@@ -25,3 +26,4 @@
     "vite": "^7.1.7"
   }
 }
+
