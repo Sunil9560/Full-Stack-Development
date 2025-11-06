@@ -4,6 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Segoe UI', sans-serif;
+  
 }
 
 body {
@@ -85,4 +86,5 @@ body {
   font-size: 1.1rem;
   line-height: 1.6;
 }
+
 
